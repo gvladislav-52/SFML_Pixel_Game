@@ -1,0 +1,8 @@
+![the 1 screen](https://github.com/gvladislav-52/SFML_Pixel_Game/blob/master/game_1.png)
+![the 2 screen](https://github.com/gvladislav-52/SFML_Pixel_Game/blob/master/game_2.png)
+![the 3 screen](https://github.com/gvladislav-52/SFML_Pixel_Game/blob/master/game_3.png)
+![the 4 screen](https://github.com/gvladislav-52/SFML_Pixel_Game/blob/master/game_4.png)
+![the 5 screen](https://github.com/gvladislav-52/SFML_Pixel_Game/blob/master/game_5.png)
+![the 6 screen](https://github.com/gvladislav-52/SFML_Pixel_Game/blob/master/game_6.png)
+![the 7 screen](https://github.com/gvladislav-52/SFML_Pixel_Game/blob/master/game_7.png)
+![the 8 screen](https://github.com/gvladislav-52/SFML_Pixel_Game/blob/master/game_8.png)
